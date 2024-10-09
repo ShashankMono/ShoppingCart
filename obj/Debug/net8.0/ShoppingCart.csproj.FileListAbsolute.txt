@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Day22\ShoppingCart\bin\Debug\net8.0\ShoppingCart.exe
+D:\monocept_c# learning\Day22\ShoppingCart\bin\Debug\net8.0\ShoppingCart.deps.json
+D:\monocept_c# learning\Day22\ShoppingCart\bin\Debug\net8.0\ShoppingCart.runtimeconfig.json
+D:\monocept_c# learning\Day22\ShoppingCart\bin\Debug\net8.0\ShoppingCart.dll
+D:\monocept_c# learning\Day22\ShoppingCart\bin\Debug\net8.0\ShoppingCart.pdb
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfo.cs
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.dll
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\refint\ShoppingCart.dll
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.pdb
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ShoppingCart.genruntimeconfig.cache
+D:\monocept_c# learning\Day22\ShoppingCart\obj\Debug\net8.0\ref\ShoppingCart.dll
